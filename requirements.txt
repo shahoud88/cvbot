@@ -1,0 +1,7 @@
+cat > requirements.txt <<EOF
+python-telegram-bot==20.7
+PyPDF2
+python-docx
+python-dotenv
+huggingface-hub
+EOF
